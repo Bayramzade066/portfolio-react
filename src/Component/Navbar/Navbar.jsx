@@ -29,13 +29,13 @@ function Navbar() {
     <header className={headeranima ? "headerActive" : ""}>
       <div className="navbar">
         <div className="logo">
-          <img src={"/image/logo.svg"} alt="Logo" />
+          <img src={"https://html.nkdev.info/snow/assets/images/logo.svg"} alt="Logo" />
         </div>
         <div className="navlinks">
           <NavLink style={({ isActive }) => ({
                             color: isActive ? "#444" : '',
 
-                        })} to="/">HOME</NavLink>
+                        })} to="/portfolio-react">HOME</NavLink>
           <NavLink style={({ isActive }) => ({
                             color: isActive ? "#444" : '',
 

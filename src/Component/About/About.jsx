@@ -9,14 +9,14 @@ function About() {
   return (
     <div className="about">
       <div className="__img">
-        <img src={"./image/about-me.jpg"} alt="Me" />
+        <img src={"https://html.nkdev.info/snow/assets/images/about-me.jpg"} alt="Me" />
       </div>
       <div className="__textall">
         <div className="__left"><h2>I create <span>everything</span> digital, <br /> printable & minimal.</h2></div>
         <div className="__right">
           <p>Nullam lobortis neque turpis, nec tempus sem pharetra at. Donec et lobortis quam, in ullamcorper velit. Aliquam maximus ullamcorper ligula, at placerat hendrerit sed. Sed metus urna, bibendum id tortor , feugiat pharetra ipsum. Aliquam vehicula neque sit amet dolor malesuada pretium.</p>
           <p>Curabitur tristique, felis ut mattis auctor, elit ante laoreet libero, ac sceleris lorem quam vitae libero. Suspendisse aliquet eget risus quis vehicula.</p>
-          <div className="__signature"><img src={"./image/about-me-signature.png"} alt="" /></div>
+          <div className="__signature"><img src={"https://html.nkdev.info/snow/assets/images/about-me-signature.png"} alt="" /></div>
         </div>
       </div>
       <div className="__skills">

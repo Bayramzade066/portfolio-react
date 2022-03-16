@@ -68,7 +68,7 @@ function Home() {
   return (
     <div className="home">
       <div className="__header">
-        <div className="__img"><img src={"/image/home-1.jpg"} alt="" /></div>
+        <div className="__img"><img src={"https://html.nkdev.info/snow/assets/images/home-1.jpg"} alt="" /></div>
         <div className="__textall">
             <div className="__text">
             <h2>Digital. Modern. Creative</h2>
